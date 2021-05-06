@@ -14,10 +14,10 @@ var soil, drill1_img, drill2_img, drill3_img;
 
 
 function preload() {
-    soil = loadImage("/images/soil.png");
-    drill1_img = loadImage("/images/drill1.png");
-    drill2_img = loadImage("/images/drill2.png");
-    drill3_img = loadImage("/images/drill3.png");
+    soil = loadImage("../images/soil.png");
+    drill1_img = loadImage("../images/drill1.png");
+    drill2_img = loadImage("../images/drill2.png");
+    drill3_img = loadImage("../images/drill3.png");
 }
 
 
